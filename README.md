@@ -1,5 +1,5 @@
 <h1 align="left">Olá, meu nome é Matheus Souza! 👋</h1>
-<br>
+
 
 ###
 
@@ -8,7 +8,7 @@
 ###
 
 <p align="left">🌍 Sou de São Paulo, Brasil<br>🎓 Estudante de Análise e Desenvolvimento de Sistemas<br>💼 Software Engineer FrontEnd na XP Inc<br>🚀 Especializando-me em React, TypeScript e JavaScript</p>
-<br>
+
 
 ###
 
@@ -27,7 +27,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
 </div>
-<br>
+
 
 ###
 
@@ -42,7 +42,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
 </div>
-<br>
+
 
 <h2 align="left"> 📫 Contato</h2>
 
@@ -56,7 +56,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
 </div>
-<br>
+
 
 ###
 
