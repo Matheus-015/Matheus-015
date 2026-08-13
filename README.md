@@ -3,7 +3,7 @@
 
 ###
 
-<h2 align="left">Software Engineer FrontEnd </h2>
+<h2 align="left">Software Engineer FullStack </h2>
 
 ###
 
@@ -59,16 +59,4 @@
 
 
 ###
-
-<h2 align="left">📊 Estatísticas GitHub</h2>
-
-###
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <a href="http://www.github.com/Matheus-015">
-    <img src="https://github-readme-stats.vercel.app/api?username=Matheus-015&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="Matheus-015's GitHub stats" />
-  </a>
-  <a href="https://github.com/Matheus-015">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-015&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
-  </a>
-</div>
 
