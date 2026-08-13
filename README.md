@@ -1,4 +1,4 @@
-<h1 align="left">Olá, meu nome é Matheus Souza! 👋</h1>
+<h1 align="left">Olá, meu nome é Matheus! 👋</h1>
 
 
 ###
@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">🌍 Sou de São Paulo, Brasil<br>🎓 Estudante de Análise e Desenvolvimento de Sistemas<br>💼 Software Engineer FrontEnd na XP Inc<br>🚀 Especializando-me em React, TypeScript e JavaScript</p>
+<p align="left">🌍 Sou de São Paulo - SP, Brasil<br>🎓 Formado em Análise e Desenvolvimento de Sistemas<br>💼 Software Engineer FrontEnd na XP Inc<br>🚀 Especializando-me em C# e .NET/p>
 
 
 ###
