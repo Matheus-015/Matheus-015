@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">🌍 Sou de São Paulo - SP, Brasil<br>🎓 Formado em Análise e Desenvolvimento de Sistemas<br>💼 Software Engineer FrontEnd na XP Inc<br>🚀 Especializando-me em C# e .NET/p>
+<p align="left">🌍 Sou de São Paulo - SP, Brasil<br>🎓 Formado em Análise e Desenvolvimento de Sistemas<br>💼 Software Engineer FrontEnd na XP Inc<br>🚀 Especializando-me em C# e .NET/>
 
 
 ###
